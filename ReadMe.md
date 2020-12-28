@@ -23,7 +23,9 @@ You are welcome to file questions as issues and as I have time, I'll answer them
 As you figure things out, you are welcome to send pull requests to improve the documentation.
 
 # Background Information
-Please see file ***Minos 2014 Logging.pptx*** for on overview of the initial goals, a walk through of how to use it, including a video of the usage. The video uses an older version of MouseDash and so doesn't show all the features.
+Please see file ***docs/Minos 2014 Logging.pptx*** for on overview of the initial goals, a walk through of how to use it, including a video of the usage. The video uses an older version of MouseDash and so doesn't show all the features.
+
+The file ***docs/Mouse Dashboard Description.docx*** captures what I set out to do. The file ***docs/Mouse Dashboard Description.docx*** has a description of the MouseDash PC application. Some items are covered there that are not covered in this description.
 
 # MouseDash PC Application
 The C# application is a mixture of Windows Forms, a custom Maze control and graphs using ZedGraph. A fun aspect of writing this application was keeping all the information displayed aligned to the same event. Now that it is working, it could do with a refactor but since it is working, I'm hopefully never going to make changes in this area.
