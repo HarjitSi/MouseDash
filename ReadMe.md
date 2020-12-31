@@ -102,7 +102,10 @@ The maze display shows the current maze map. A very powerful feature of the maze
 ## Known Bugs
 * Once you load a log file in, you cannot load another log file. You have to exit the application and restart it.
 
+# Building MouseDash
+Pull down MouseDash, ZedGraph and MouseControls. MouseDash, ZedGraph and MouseControls must be at the same folder level. 
 
+Using Microsoft Visual Studio Community or similar edition, open MouseDash\MouseDash.sln. Then, you can build and run it.
 
 # Mouse Code Snippets
 This is either complete files or pieces of code that run on the mouse that log the data either into RAM or flash.
