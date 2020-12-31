@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseDash", "MouseDash.csproj", "{61A028BF-903E-4C81-B22A-0D7C7F25AC64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseControls", "..\MouseControls\MouseControls.csproj", "{472D6C56-5A30-4757-AFE1-CCFC262BAE64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A028BF-903E-4C81-B22A-0D7C7F25AC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A028BF-903E-4C81-B22A-0D7C7F25AC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A028BF-903E-4C81-B22A-0D7C7F25AC64}.Debug|x86.ActiveCfg = Debug|x86
+		{61A028BF-903E-4C81-B22A-0D7C7F25AC64}.Debug|x86.Build.0 = Debug|x86
+		{61A028BF-903E-4C81-B22A-0D7C7F25AC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A028BF-903E-4C81-B22A-0D7C7F25AC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A028BF-903E-4C81-B22A-0D7C7F25AC64}.Release|x86.ActiveCfg = Release|x86
+		{61A028BF-903E-4C81-B22A-0D7C7F25AC64}.Release|x86.Build.0 = Release|x86
+		{472D6C56-5A30-4757-AFE1-CCFC262BAE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472D6C56-5A30-4757-AFE1-CCFC262BAE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472D6C56-5A30-4757-AFE1-CCFC262BAE64}.Debug|x86.ActiveCfg = Debug|x86
+		{472D6C56-5A30-4757-AFE1-CCFC262BAE64}.Debug|x86.Build.0 = Debug|x86
+		{472D6C56-5A30-4757-AFE1-CCFC262BAE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472D6C56-5A30-4757-AFE1-CCFC262BAE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472D6C56-5A30-4757-AFE1-CCFC262BAE64}.Release|x86.ActiveCfg = Release|x86
+		{472D6C56-5A30-4757-AFE1-CCFC262BAE64}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E93102-BF3D-4F73-A665-4A1ABC7A1FD7}
+	EndGlobalSection
+EndGlobal
